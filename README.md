@@ -3,6 +3,4 @@ I love to code and design web pages. I have a good knowledge in computer and hav
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/nnejiobiomaryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/nnejiobioma-ma)](https://github.com/ryo-ma/github-profile-trophy)
